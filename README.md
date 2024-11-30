@@ -1,8 +1,9 @@
-## Hola, mi nombre es Francisca Tapia
-[Accede a mi portafolio](https://franvtapia.github.io/portafolio/) 💼
+## Hola
+[Accede a mi portafolio de proyectos](https://franvtapia.github.io/portafolio/) 💼
 
--Soy estudiante de [Informática Biomédica](https://www.duoc.cl/carreras/informatica-biomedica/) <br/>
+-Soy estudiante de Informática Biomédica.
 -Tengo interés en la Bioestadística y Análisis de datos en torno a la salud. <br/>
+-Lenguajes: Español e Inglés.
 
 ## Lenguajes y herramientas
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
